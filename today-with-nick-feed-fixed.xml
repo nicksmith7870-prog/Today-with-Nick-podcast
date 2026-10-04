@@ -6,6 +6,11 @@
 <language>en</language>
 <itunes:author>Nick Smith</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<itunes:owner>
+<itunes:name>Nick Smith</itunes:name>
+<itunes:email>nicksmith7870@gmail.com</itunes:email>
+</itunes:owner>
+
 <itunes:category text="News">
 <itunes:category text="Entertainment News"/>
 </itunes:category>
