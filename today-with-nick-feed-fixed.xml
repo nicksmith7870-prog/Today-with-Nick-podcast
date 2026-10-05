@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Today with Nick</title>
 <description>A daily celebrity news podcast. Maya, Jordan, Sam, and Riley break down the biggest stories in entertainment every morning.</description>
@@ -10,7 +10,6 @@
 <itunes:name>Nick Smith</itunes:name>
 <itunes:email>nicksmith7870@gmail.com</itunes:email>
 </itunes:owner>
-
 <itunes:category text="News">
 <itunes:category text="Entertainment News"/>
 </itunes:category>
@@ -21,41 +20,54 @@
 <link>https://github.com/nicksmith7870-prog/Today-with-Nick-podcast</link>
 </image>
 <item>
+<title>Today with Nick: October 5, 2026</title>
+<description>Maya, Jordan, Sam, and Riley break down the biggest celebrity stories of October 5, 2026: Taylor Swift's SNL surprise, Bradley Cooper and Gigi Hadid's Paris rings, Michael Douglas's tense memoir interview, the Matthew Perry documentary, Shakira and Dua Lipa's Madrid duet, and much more.</description>
+<enclosure url="https://muse.ai/podcasts/media/667109166479040/8a1f73fd-2ac4-44a0-aae9-693c844f5387/ep-04d23c3b-1714-4ffd-b54e-ef0ed71ef808.mp3" length="28170277" type="audio/mpeg"/>
+<guid isPermaLink="false">today-with-nick-october-5-2026-2026-10-05</guid>
+<pubDate>2026-10-05T13:13:57.088208+00:00</pubDate>
+<itunes:duration>3521</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+
+<item>
 <title>Today with Nick: October 4, 2026</title>
-<description>Maya, Jordan, Sam, and Riley break down the biggest celebrity stories of October 4, 2026, including a tribute to Fiona Lowe, The Rock's AEW praise rattling WWE, Ben Affleck on single life, and Lindsay Lohan's Mean Girls Day moment.</description>
+<description>Maya, Jordan, Sam, and Riley break down the biggest celebrity stories of October 4, 2026: remembering Fiona Lowe, The Rock's AEW praise rattling WWE, Ben Affleck on single life, Lindsay Lohan's Mean Girls Day, Comic-Con Malaga, and much more.</description>
 <enclosure url="https://muse.ai/podcasts/media/667109166479040/8a1f73fd-2ac4-44a0-aae9-693c844f5387/ep-76f7f5e6-4912-4318-a03d-a994f354295c.mp3" length="28858021" type="audio/mpeg"/>
-<guid isPermaLink="false">ep-76f7f5e6-4912-4318-a03d-a994f354295c</guid>
-<pubDate>Sun, 04 Oct 2026 13:16:27 +0000</pubDate>
+<guid isPermaLink="false">today-with-nick-october-4-2026-2026-10-04</guid>
+<pubDate>2026-10-04T13:14:31.923947+00:00</pubDate>
 <itunes:duration>3607</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 
 <item>
 <title>Today with Nick: October 3, 2026</title>
-<description>Maya, Jordan, Sam, and Riley break down the biggest celebrity stories of October 3, 2026.</description>
+<description>Maya, Jordan, Sam, and Riley break down the biggest celebrity stories of October 3, 2026: Dolly Parton's final recording with U2, the Olivia Dean copyright lawsuit, Elon Musk and Shivon Zilis's split, Richard E. Grant's Traitors slip, the Drishyam 3 box office, and much more.</description>
 <enclosure url="https://muse.ai/podcasts/media/667109166479040/8a1f73fd-2ac4-44a0-aae9-693c844f5387/ep-678b1107-8ed1-4491-a154-bb4ba0ccd2a0.mp3" length="30540901" type="audio/mpeg"/>
-<guid isPermaLink="false">ep-678b1107-8ed1-4491-a154-bb4ba0ccd2a0</guid>
-<pubDate>Sat, 03 Oct 2026 13:26:19 +0000</pubDate>
+<guid isPermaLink="false">today-with-nick-october-3-2026-2026-10-03</guid>
+<pubDate>2026-10-03T13:25:55.673635+00:00</pubDate>
 <itunes:duration>3817</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
+
 <item>
 <title>Today with Nick: October 1, 2026</title>
 <description>Maya, Jordan, Sam, and Riley break down the biggest celebrity stories of October 1, 2026.</description>
 <enclosure url="https://muse.ai/podcasts/media/667109166479040/8a1f73fd-2ac4-44a0-aae9-693c844f5387/ep-2b72cfe7-74f0-45b8-b89c-71f2e7c8d2d7.mp3" length="30741733" type="audio/mpeg"/>
-<guid isPermaLink="false">ep-2b72cfe7-74f0-45b8-b89c-71f2e7c8d2d7</guid>
-<pubDate>Fri, 02 Oct 2026 09:47:12 +0000</pubDate>
+<guid isPermaLink="false">today-with-nick-october-1-2026-2026-10-02</guid>
+<pubDate>2026-10-02T09:46:39.376043+00:00</pubDate>
 <itunes:duration>3842</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
+
 <item>
 <title>The Downfall of the Lolcow Universe</title>
-<description>Maya, Jordan, Sam, and Riley trace Keemstar's Lolcow Universe from its November 2023 launch to its 2026 collapse.</description>
+<description>Maya, Jordan, Sam, and Riley trace Keemstar's Lolcow Universe from its November 2023 launch to its 2026 collapse: the shows, the stars, the scandals, and what the downfall reveals.</description>
 <enclosure url="https://muse.ai/podcasts/media/667109166479040/8a1f73fd-2ac4-44a0-aae9-693c844f5387/ep-03d6d48b-afab-46ad-a6e8-59c37ce7ab18.mp3" length="26496421" type="audio/mpeg"/>
-<guid isPermaLink="false">ep-03d6d48b-afab-46ad-a6e8-59c37ce7ab18</guid>
-<pubDate>Thu, 01 Oct 2026 18:26:19 +0000</pubDate>
+<guid isPermaLink="false">the-downfall-of-the-lolcow-universe-2026-09-30</guid>
+<pubDate>2026-09-30T19:17:14.021286+00:00</pubDate>
 <itunes:duration>3380</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
+
 </channel>
 </rss>
